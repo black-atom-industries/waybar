@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/black-atom-industries/core/refs/heads/main/adapter.schema.json",
   "collections": {
     "default": {
-      "template": "./themes/default/collection.template.css",
+      "template": "./themes/collection.template.css",
       "themes": [
         "black-atom-default-dark",
         "black-atom-default-dark-dimmed",
@@ -11,7 +11,7 @@
       ]
     },
     "jpn": {
-      "template": "./themes/jpn/collection.template.css",
+      "template": "./themes/collection.template.css",
       "themes": [
         "black-atom-jpn-koyo-yoru",
         "black-atom-jpn-koyo-hiru",
@@ -20,7 +20,7 @@
       ]
     },
     "stations": {
-      "template": "./themes/stations/collection.template.css",
+      "template": "./themes/collection.template.css",
       "themes": [
         "black-atom-stations-engineering",
         "black-atom-stations-operations",
@@ -29,7 +29,7 @@
       ]
     },
     "terra": {
-      "template": "./themes/terra/collection.template.css",
+      "template": "./themes/collection.template.css",
       "themes": [
         "black-atom-terra-spring-day",
         "black-atom-terra-spring-night",
@@ -42,7 +42,7 @@
       ]
     },
     "mnml": {
-      "template": "./themes/mnml/collection.template.css",
+      "template": "./themes/collection.template.css",
       "themes": [
         "black-atom-mnml-clay-dark",
         "black-atom-mnml-clay-light",

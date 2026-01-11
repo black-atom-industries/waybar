@@ -1,0 +1,30 @@
+/* Black Atom — JPN ∷ Murasaki Yoru */
+
+/* Background colors */
+@define-color ba-bg-default #332031;
+@define-color ba-bg-panel #20141f;
+@define-color ba-bg-hover #462c43;
+@define-color ba-bg-active #462c43;
+@define-color ba-bg-selection #573954;
+@define-color ba-bg-contrast #d4bfd6;
+
+/* Foreground colors */
+@define-color ba-fg-default #d4bfd6;
+@define-color ba-fg-subtle #946996;
+@define-color ba-fg-accent #e6a318;
+@define-color ba-fg-disabled #865f88;
+@define-color ba-fg-contrast #332031;
+
+/* Feedback colors */
+@define-color ba-fg-negative #f0635c;
+@define-color ba-fg-positive #6dc29f;
+@define-color ba-fg-warn #e6a318;
+@define-color ba-fg-info #71c0db;
+
+/* Palette colors */
+@define-color ba-red #f0635c;
+@define-color ba-green #6dc29f;
+@define-color ba-yellow #e6a318;
+@define-color ba-blue #71c0db;
+@define-color ba-magenta #ec6eaa;
+@define-color ba-cyan #8fbcbb;

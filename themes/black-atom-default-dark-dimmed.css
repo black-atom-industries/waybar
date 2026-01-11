@@ -1,0 +1,30 @@
+/* Black Atom — Dark Dimmed */
+
+/* Background colors */
+@define-color ba-bg-default #1e2020;
+@define-color ba-bg-panel #151616;
+@define-color ba-bg-hover #272929;
+@define-color ba-bg-active #272929;
+@define-color ba-bg-selection #313333;
+@define-color ba-bg-contrast #babfbf;
+
+/* Foreground colors */
+@define-color ba-fg-default #e1e6e5;
+@define-color ba-fg-subtle #7d8181;
+@define-color ba-fg-accent #66c3a4;
+@define-color ba-fg-disabled #666a6a;
+@define-color ba-fg-contrast #1e2020;
+
+/* Feedback colors */
+@define-color ba-fg-negative #e97292;
+@define-color ba-fg-positive #4cb86a;
+@define-color ba-fg-warn #dd881b;
+@define-color ba-fg-info #00b9c3;
+
+/* Palette colors */
+@define-color ba-red #9b9f9f;
+@define-color ba-green #7d8181;
+@define-color ba-yellow #7d8181;
+@define-color ba-blue #666a6a;
+@define-color ba-magenta #59a174;
+@define-color ba-cyan #66c3a4;

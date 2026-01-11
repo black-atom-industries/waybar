@@ -1,0 +1,30 @@
+/* Black Atom — JPN ∷ Koyo Yoru */
+
+/* Background colors */
+@define-color ba-bg-default #35293a;
+@define-color ba-bg-panel #291d2e;
+@define-color ba-bg-hover #413446;
+@define-color ba-bg-active #413446;
+@define-color ba-bg-selection #4d4053;
+@define-color ba-bg-contrast #fbcaa4;
+
+/* Foreground colors */
+@define-color ba-fg-default #fbcaa4;
+@define-color ba-fg-subtle #9c98b3;
+@define-color ba-fg-accent #edaa4b;
+@define-color ba-fg-disabled #8d89a8;
+@define-color ba-fg-contrast #35293a;
+
+/* Feedback colors */
+@define-color ba-fg-negative #e47889;
+@define-color ba-fg-positive #5db28d;
+@define-color ba-fg-warn #edaa4b;
+@define-color ba-fg-info #a298b9;
+
+/* Palette colors */
+@define-color ba-red #e47889;
+@define-color ba-green #5db28d;
+@define-color ba-yellow #edaa4b;
+@define-color ba-blue #a298b9;
+@define-color ba-magenta #eda77d;
+@define-color ba-cyan #7ea99c;

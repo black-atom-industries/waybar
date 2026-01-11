@@ -1,0 +1,30 @@
+/* Black Atom — TER ∷ Summer Day */
+
+/* Background colors */
+@define-color ba-bg-default #f9eddd;
+@define-color ba-bg-panel #f3e6d2;
+@define-color ba-bg-hover #e9ddc4;
+@define-color ba-bg-active #e9ddc4;
+@define-color ba-bg-selection #fef3e7;
+@define-color ba-bg-contrast #0d3025;
+
+/* Foreground colors */
+@define-color ba-fg-default #0d3025;
+@define-color ba-fg-subtle #4f6b58;
+@define-color ba-fg-accent #f9b520;
+@define-color ba-fg-disabled #6a816e;
+@define-color ba-fg-contrast #f9eddd;
+
+/* Feedback colors */
+@define-color ba-fg-negative #d53d00;
+@define-color ba-fg-positive #397949;
+@define-color ba-fg-warn #f9b520;
+@define-color ba-fg-info #007677;
+
+/* Palette colors */
+@define-color ba-red #d53d00;
+@define-color ba-green #397949;
+@define-color ba-yellow #f9b520;
+@define-color ba-blue #007677;
+@define-color ba-magenta #c04d6e;
+@define-color ba-cyan #237961;
