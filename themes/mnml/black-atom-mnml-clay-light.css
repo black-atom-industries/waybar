@@ -1,0 +1,43 @@
+/* Black Atom — MNM ∷ Clay Light */
+
+* {
+    font-family: "Iosevka Nerd Font", monospace;
+    font-size: 18px;
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    padding: 2px;
+}
+
+window#waybar {
+    background-color: #f8f2dc;
+    color: #322e22;
+}
+
+#workspaces button {
+    padding: 0 6px;
+    color: #5d553f;
+    background: transparent;
+}
+
+#workspaces button.focused {
+    color: #f8f2dc;
+    background: #322e22;
+}
+
+#workspaces button:hover {
+    background: #ebe5cf;
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#custom-vpn {
+    color: #79715a;
+}
+
+#tray > .needs-attention {
+    background: #322e22;
+    color: #f8f2dc;
+}

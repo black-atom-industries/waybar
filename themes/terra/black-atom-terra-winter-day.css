@@ -1,0 +1,43 @@
+/* Black Atom — TER ∷ Winter Day */
+
+* {
+    font-family: "Iosevka Nerd Font", monospace;
+    font-size: 18px;
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    padding: 2px;
+}
+
+window#waybar {
+    background-color: #ebeff5;
+    color: #1e2a37;
+}
+
+#workspaces button {
+    padding: 0 6px;
+    color: #4f667c;
+    background: transparent;
+}
+
+#workspaces button.focused {
+    color: #ebeff5;
+    background: #1e2a37;
+}
+
+#workspaces button:hover {
+    background: #cfd8e5;
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#custom-vpn {
+    color: #208295;
+}
+
+#tray > .needs-attention {
+    background: #1e2a37;
+    color: #ebeff5;
+}

@@ -1,0 +1,43 @@
+/* Black Atom — MNM ∷ Mikado Dark */
+
+* {
+    font-family: "Iosevka Nerd Font", monospace;
+    font-size: 18px;
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    padding: 2px;
+}
+
+window#waybar {
+    background-color: #1d364f;
+    color: #e2ebf3;
+}
+
+#workspaces button {
+    padding: 0 6px;
+    color: #6c93bc;
+    background: transparent;
+}
+
+#workspaces button.focused {
+    color: #1d364f;
+    background: #e2ebf3;
+}
+
+#workspaces button:hover {
+    background: #233c56;
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#custom-vpn {
+    color: #6c93bc;
+}
+
+#tray > .needs-attention {
+    background: #e2ebf3;
+    color: #1d364f;
+}

@@ -1,0 +1,43 @@
+/* Black Atom — JPN ∷ Koyo Hiru */
+
+* {
+    font-family: "Iosevka Nerd Font", monospace;
+    font-size: 18px;
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    padding: 2px;
+}
+
+window#waybar {
+    background-color: #f9f2e9;
+    color: #3a2e3a;
+}
+
+#workspaces button {
+    padding: 0 6px;
+    color: #a88aa8;
+    background: transparent;
+}
+
+#workspaces button.focused {
+    color: #f9f2e9;
+    background: #3a2e3a;
+}
+
+#workspaces button:hover {
+    background: #eedcc5;
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#custom-vpn {
+    color: #52ad82;
+}
+
+#tray > .needs-attention {
+    background: #3a2e3a;
+    color: #f9f2e9;
+}

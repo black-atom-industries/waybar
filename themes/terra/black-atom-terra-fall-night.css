@@ -1,0 +1,43 @@
+/* Black Atom — TER ∷ Fall Night */
+
+* {
+    font-family: "Iosevka Nerd Font", monospace;
+    font-size: 18px;
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    padding: 2px;
+}
+
+window#waybar {
+    background-color: #241710;
+    color: #eac5b1;
+}
+
+#workspaces button {
+    padding: 0 6px;
+    color: #c59174;
+    background: transparent;
+}
+
+#workspaces button.focused {
+    color: #241710;
+    background: #eac5b1;
+}
+
+#workspaces button:hover {
+    background: #2e2119;
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#custom-vpn {
+    color: #95a483;
+}
+
+#tray > .needs-attention {
+    background: #eac5b1;
+    color: #241710;
+}

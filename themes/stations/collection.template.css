@@ -1,0 +1,43 @@
+/* <%= theme.meta.label %> */
+
+* {
+    font-family: "Iosevka Nerd Font", monospace;
+    font-size: 18px;
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    padding: 2px;
+}
+
+window#waybar {
+    background-color: <%= theme.ui.bg.default %>;
+    color: <%= theme.ui.fg.default %>;
+}
+
+#workspaces button {
+    padding: 0 6px;
+    color: <%= theme.ui.fg.subtle %>;
+    background: transparent;
+}
+
+#workspaces button.focused {
+    color: <%= theme.ui.bg.default %>;
+    background: <%= theme.ui.fg.default %>;
+}
+
+#workspaces button:hover {
+    background: <%= theme.ui.bg.hover %>;
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#custom-vpn {
+    color: <%= theme.palette.green %>;
+}
+
+#tray > .needs-attention {
+    background: <%= theme.ui.fg.default %>;
+    color: <%= theme.ui.bg.default %>;
+}

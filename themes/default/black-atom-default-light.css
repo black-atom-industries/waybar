@@ -1,0 +1,43 @@
+/* Black Atom — Light */
+
+* {
+    font-family: "Iosevka Nerd Font", monospace;
+    font-size: 18px;
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    padding: 2px;
+}
+
+window#waybar {
+    background-color: #ecefef;
+    color: #1e2020;
+}
+
+#workspaces button {
+    padding: 0 6px;
+    color: #5c5e5e;
+    background: transparent;
+}
+
+#workspaces button.focused {
+    color: #ecefef;
+    background: #1e2020;
+}
+
+#workspaces button:hover {
+    background: #e2e5e5;
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#custom-vpn {
+    color: #8a8d8d;
+}
+
+#tray > .needs-attention {
+    background: #1e2020;
+    color: #ecefef;
+}

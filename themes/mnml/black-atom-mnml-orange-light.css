@@ -1,0 +1,43 @@
+/* Black Atom — MNM ∷ Orange Light */
+
+* {
+    font-family: "Iosevka Nerd Font", monospace;
+    font-size: 18px;
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    padding: 2px;
+}
+
+window#waybar {
+    background-color: #d7e0e3;
+    color: #242a2c;
+}
+
+#workspaces button {
+    padding: 0 6px;
+    color: #585f61;
+    background: transparent;
+}
+
+#workspaces button.focused {
+    color: #d7e0e3;
+    background: #242a2c;
+}
+
+#workspaces button:hover {
+    background: #cad3d5;
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#custom-vpn {
+    color: #868e90;
+}
+
+#tray > .needs-attention {
+    background: #242a2c;
+    color: #d7e0e3;
+}

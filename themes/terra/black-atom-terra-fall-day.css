@@ -1,0 +1,43 @@
+/* Black Atom — TER ∷ Fall Day */
+
+* {
+    font-family: "Iosevka Nerd Font", monospace;
+    font-size: 18px;
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    padding: 2px;
+}
+
+window#waybar {
+    background-color: #f8ddc7;
+    color: #422617;
+}
+
+#workspaces button {
+    padding: 0 6px;
+    color: #815137;
+    background: transparent;
+}
+
+#workspaces button.focused {
+    color: #f8ddc7;
+    background: #422617;
+}
+
+#workspaces button:hover {
+    background: #e3bfa4;
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#custom-vpn {
+    color: #6d7e57;
+}
+
+#tray > .needs-attention {
+    background: #422617;
+    color: #f8ddc7;
+}

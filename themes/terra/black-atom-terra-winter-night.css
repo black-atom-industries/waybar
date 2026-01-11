@@ -1,0 +1,43 @@
+/* Black Atom — TER ∷ Winter Night */
+
+* {
+    font-family: "Iosevka Nerd Font", monospace;
+    font-size: 18px;
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    padding: 2px;
+}
+
+window#waybar {
+    background-color: #12161d;
+    color: #e2e8f2;
+}
+
+#workspaces button {
+    padding: 0 6px;
+    color: #6f8298;
+    background: transparent;
+}
+
+#workspaces button.focused {
+    color: #12161d;
+    background: #e2e8f2;
+}
+
+#workspaces button:hover {
+    background: #1a222e;
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#custom-vpn {
+    color: #82c3d3;
+}
+
+#tray > .needs-attention {
+    background: #e2e8f2;
+    color: #12161d;
+}
