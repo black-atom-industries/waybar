@@ -6,13 +6,13 @@
 @define-color ba-bg-hover #e2e5e5;
 @define-color ba-bg-active #f6f9f9;
 @define-color ba-bg-selection #d5d8d8;
-@define-color ba-bg-contrast #313333;
+@define-color ba-bg-contrast #3c3d3e;
 
 /* Foreground colors */
-@define-color ba-fg-default #1e2020;
-@define-color ba-fg-subtle #5c5e5e;
+@define-color ba-fg-default #28292a;
+@define-color ba-fg-subtle #51606b;
 @define-color ba-fg-accent #009c67;
-@define-color ba-fg-disabled #8a8d8d;
+@define-color ba-fg-disabled #7f8f9a;
 @define-color ba-fg-contrast #e2e5e5;
 
 /* Feedback colors */
@@ -22,9 +22,9 @@
 @define-color ba-fg-info #00839a;
 
 /* Palette colors */
-@define-color ba-red #a2a5a5;
-@define-color ba-green #8a8d8d;
-@define-color ba-yellow #8a8d8d;
-@define-color ba-blue #727575;
+@define-color ba-red #97a7b3;
+@define-color ba-green #7f8f9a;
+@define-color ba-yellow #7f8f9a;
+@define-color ba-blue #687782;
 @define-color ba-magenta #007a1f;
 @define-color ba-cyan #009c67;
