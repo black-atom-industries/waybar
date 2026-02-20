@@ -47,7 +47,7 @@ This adapter generates CSS files containing GTK color definitions using `@define
 ### Prerequisites
 
 - Waybar
-- [Black Atom Core](https://github.com/black-atom-industries/core) (for generating themes)
+- [Deno](https://deno.land/) runtime (for generating themes)
 
 ### Setup
 
@@ -58,10 +58,10 @@ git clone https://github.com/black-atom-industries/waybar.git
 cd waybar
 ```
 
-2. Generate theme files using Black Atom Core:
+2. Generate theme files (requires [Deno](https://deno.land/)):
 
 ```bash
-black-atom-core generate
+deno task generate
 ```
 
 3. Import a theme in your `style.css`:
