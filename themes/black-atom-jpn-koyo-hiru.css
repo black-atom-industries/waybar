@@ -1,19 +1,19 @@
 /* Black Atom — JPN ∷ Koyo Hiru */
 
 /* Background colors */
-@define-color ba-bg-default #faeede;
-@define-color ba-bg-panel #f4e3cd;
-@define-color ba-bg-hover #f4e3cd;
-@define-color ba-bg-active #fef2e1;
-@define-color ba-bg-selection #f4e3cd;
-@define-color ba-bg-contrast #3a2e3a;
+@define-color ba-bg-default #fef2e1;
+@define-color ba-bg-panel #f8e7d0;
+@define-color ba-bg-hover #f8e7d0;
+@define-color ba-bg-active #fff5e5;
+@define-color ba-bg-selection #f8e7d0;
+@define-color ba-bg-contrast #3a2e3b;
 
 /* Foreground colors */
-@define-color ba-fg-default #3a2e3a;
-@define-color ba-fg-subtle #b193b1;
+@define-color ba-fg-default #3a2e3b;
+@define-color ba-fg-subtle #b19b7c;
 @define-color ba-fg-accent #ea9d34;
-@define-color ba-fg-disabled #ccb5cc;
-@define-color ba-fg-contrast #faeede;
+@define-color ba-fg-disabled #d1ba9b;
+@define-color ba-fg-contrast #fef2e1;
 
 /* Feedback colors */
 @define-color ba-fg-negative #db7070;
