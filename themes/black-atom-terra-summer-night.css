@@ -1,30 +1,30 @@
 /* Black Atom — TERRA ∷ Summer Night */
 
 /* Background colors */
-@define-color ba-bg-default #001b1a;
-@define-color ba-bg-panel #001111;
-@define-color ba-bg-hover #042824;
-@define-color ba-bg-active #042824;
-@define-color ba-bg-selection #14342f;
-@define-color ba-bg-contrast #eae0cf;
+@define-color ba-bg-default #0a1a10;
+@define-color ba-bg-panel #021109;
+@define-color ba-bg-hover #152318;
+@define-color ba-bg-active #152318;
+@define-color ba-bg-selection #334133;
+@define-color ba-bg-contrast #dfcbaa;
 
 /* Foreground colors */
-@define-color ba-fg-default #eae0cf;
-@define-color ba-fg-subtle #849581;
-@define-color ba-fg-accent #f3b94c;
-@define-color ba-fg-disabled #6c816c;
-@define-color ba-fg-contrast #001b1a;
+@define-color ba-fg-default #dfcbaa;
+@define-color ba-fg-subtle #a0a27e;
+@define-color ba-fg-accent #bab06f;
+@define-color ba-fg-disabled #7c8563;
+@define-color ba-fg-contrast #0a1a10;
 
 /* Feedback colors */
-@define-color ba-fg-negative #e2805e;
-@define-color ba-fg-positive #69ba7c;
-@define-color ba-fg-warn #f3b94c;
-@define-color ba-fg-info #00a5a6;
+@define-color ba-fg-negative #c88f7b;
+@define-color ba-fg-positive #96a85e;
+@define-color ba-fg-warn #bab06f;
+@define-color ba-fg-info #7dac86;
 
 /* Palette colors */
-@define-color ba-red #e2805e;
-@define-color ba-green #69ba7c;
-@define-color ba-yellow #f3b94c;
-@define-color ba-blue #00a5a6;
-@define-color ba-magenta #d88095;
-@define-color ba-cyan #51bb9a;
+@define-color ba-red #c88f7b;
+@define-color ba-green #96a85e;
+@define-color ba-yellow #bab06f;
+@define-color ba-blue #7dac86;
+@define-color ba-magenta #ba929d;
+@define-color ba-cyan #6dae97;
