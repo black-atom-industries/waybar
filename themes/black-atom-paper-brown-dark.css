@@ -1,0 +1,30 @@
+/* Black Atom — PAPER ∷ Brown Dark */
+
+/* Background colors */
+@define-color ba-bg-default #332619;
+@define-color ba-bg-panel #24180d;
+@define-color ba-bg-hover #433528;
+@define-color ba-bg-active #433528;
+@define-color ba-bg-selection #534537;
+@define-color ba-bg-contrast #cac3b9;
+
+/* Foreground colors */
+@define-color ba-fg-default #dcd3c6;
+@define-color ba-fg-subtle #9a9185;
+@define-color ba-fg-accent #e5ddd0;
+@define-color ba-fg-disabled #83786b;
+@define-color ba-fg-contrast #332619;
+
+/* Feedback colors */
+@define-color ba-fg-negative #dd7577;
+@define-color ba-fg-positive #a9ba78;
+@define-color ba-fg-warn #d6b174;
+@define-color ba-fg-info #79b5cc;
+
+/* Palette colors */
+@define-color ba-red #b1aa9f;
+@define-color ba-green #9a9185;
+@define-color ba-yellow #9a9185;
+@define-color ba-blue #b1aa9f;
+@define-color ba-magenta #9a9185;
+@define-color ba-cyan #b1aa9f;

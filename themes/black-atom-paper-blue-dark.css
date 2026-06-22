@@ -1,0 +1,30 @@
+/* Black Atom — PAPER ∷ Blue Dark */
+
+/* Background colors */
+@define-color ba-bg-default #002b51;
+@define-color ba-bg-panel #001a41;
+@define-color ba-bg-hover #053b5e;
+@define-color ba-bg-active #053b5e;
+@define-color ba-bg-selection #224c6a;
+@define-color ba-bg-contrast #d1d9df;
+
+/* Foreground colors */
+@define-color ba-fg-default #eef2f5;
+@define-color ba-fg-subtle #839caf;
+@define-color ba-fg-accent #f2f6f9;
+@define-color ba-fg-disabled #5f7f95;
+@define-color ba-fg-contrast #002b51;
+
+/* Feedback colors */
+@define-color ba-fg-negative #dd7577;
+@define-color ba-fg-positive #a9ba78;
+@define-color ba-fg-warn #d6b174;
+@define-color ba-fg-info #79b5cc;
+
+/* Palette colors */
+@define-color ba-red #a7bac9;
+@define-color ba-green #839caf;
+@define-color ba-yellow #839caf;
+@define-color ba-blue #a7bac9;
+@define-color ba-magenta #839caf;
+@define-color ba-cyan #a7bac9;
