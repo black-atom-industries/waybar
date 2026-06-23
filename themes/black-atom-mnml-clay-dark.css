@@ -16,10 +16,10 @@
 @define-color ba-fg-contrast #302e28;
 
 /* Feedback colors */
-@define-color ba-fg-negative #fc8a61;
-@define-color ba-fg-positive #99bb77;
-@define-color ba-fg-warn #d3a563;
-@define-color ba-fg-info #6ab8e4;
+@define-color ba-fg-negative #dd7577;
+@define-color ba-fg-positive #a9ba78;
+@define-color ba-fg-warn #d6b174;
+@define-color ba-fg-info #79b5cc;
 
 /* Palette colors */
 @define-color ba-red #b4ae9c;
