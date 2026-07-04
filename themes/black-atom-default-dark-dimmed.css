@@ -6,10 +6,10 @@
 @define-color ba-bg-hover #2e3339;
 @define-color ba-bg-active #2e3339;
 @define-color ba-bg-selection #3e4349;
-@define-color ba-bg-contrast #d0dad6;
+@define-color ba-bg-contrast #d2d8df;
 
 /* Foreground colors */
-@define-color ba-fg-default #e4eeea;
+@define-color ba-fg-default #e5ecf3;
 @define-color ba-fg-subtle #7b8187;
 @define-color ba-fg-accent #4ec983;
 @define-color ba-fg-disabled #6a6f76;
@@ -26,5 +26,5 @@
 @define-color ba-green #8d9399;
 @define-color ba-yellow #7b8187;
 @define-color ba-blue #6a6f76;
-@define-color ba-magenta #a59eff;
+@define-color ba-magenta #7faaff;
 @define-color ba-cyan #4ec983;
